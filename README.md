@@ -14,7 +14,7 @@ No WhatsApp Web abra a conversa
 
 Com a conversa aberta
 
-Abra o console do Browser(f12 ou inspecioar(botão direto do mouse))
+Abra o console do Browser(f12 ou inspecionar(botão direto do mouse))
 
 Cole o código no console e aperte Enter
 
