@@ -10,7 +10,9 @@ Abra [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/b
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
-No WhatsApp Web abra o console do Browser
+No WhatsApp Web abra a conversa
+com a conversa aberta
+Abra o console do Browser
 
 Cole o código no console e aperte Enter
 
